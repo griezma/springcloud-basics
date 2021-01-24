@@ -22,7 +22,7 @@ class HelloServiceApplicationTests {
     @Test
     void saysHello() {
         String repsonse = restClient.getForObject("/api/v1/hello/mani", String.class);
-        assertEquals("hi there mani", repsonse);
+        assertEquals("hello from cloud helloservice config mani", repsonse);
     }
 
 }
