@@ -1,3 +1,3 @@
 # Spring Cloud Config Basics
 
-Simple system for experimenting with spring cloud config setup
+Simple app for playing with spring cloud config setup
